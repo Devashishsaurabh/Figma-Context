@@ -120,11 +120,11 @@ const FigmaApp = () => {
               src="https://bit.ly/dan-abramov"
               width="40px"
               height="40px"
-              alt="RjeshPaul"
+              alt="Nrupul Dev"
             />
             <div>
-              <p style={{ fontSize: "13px" }}>Rajesh Paul</p>
-              <p style={{ fontSize: "11px", color: "grey" }}>Delhi,India</p>
+              <p style={{ fontSize: "13px" }}>Nrupul Dev</p>
+              <p style={{ fontSize: "11px", color: "grey" }}>Bagalore,India</p>
             </div>
             <i class="fa-solid fa-ellipsis" style={{ float: "right" }}></i>
           </div>
@@ -135,7 +135,7 @@ const FigmaApp = () => {
             <SliderThumb />
           </Slider>
           <div className="bottom">
-            <p>Professional IA</p>
+            <p>Professional CTO</p>
             <p>2250Points</p>
           </div>
 
