@@ -147,12 +147,12 @@ const FigmaApp = () => {
               src="https://bit.ly/dan-abramov"
               width="40px"
               height="40px"
-              alt="Akshay"
+              alt="Rajesh"
             />
             <div>
-              <p style={{ fontSize: "13px" }}>Akshay K</p>
+              <p style={{ fontSize: "13px" }}>Rajesh paul</p>
               <p style={{ fontSize: "11px", color: "grey" }}>
-                Maharashtra,India
+                Pune,India
               </p>
             </div>
             <i class="fa-solid fa-ellipsis" style={{ marginLeft: "30px" }}></i>
